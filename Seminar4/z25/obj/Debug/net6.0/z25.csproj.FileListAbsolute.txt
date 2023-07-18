@@ -1,0 +1,15 @@
+/Users/admin/Desktop/DZ/Seminar4/z25/bin/Debug/net6.0/z25
+/Users/admin/Desktop/DZ/Seminar4/z25/bin/Debug/net6.0/z25.deps.json
+/Users/admin/Desktop/DZ/Seminar4/z25/bin/Debug/net6.0/z25.runtimeconfig.json
+/Users/admin/Desktop/DZ/Seminar4/z25/bin/Debug/net6.0/z25.dll
+/Users/admin/Desktop/DZ/Seminar4/z25/bin/Debug/net6.0/z25.pdb
+/Users/admin/Desktop/DZ/Seminar4/z25/obj/Debug/net6.0/z25.csproj.AssemblyReference.cache
+/Users/admin/Desktop/DZ/Seminar4/z25/obj/Debug/net6.0/z25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/DZ/Seminar4/z25/obj/Debug/net6.0/z25.AssemblyInfoInputs.cache
+/Users/admin/Desktop/DZ/Seminar4/z25/obj/Debug/net6.0/z25.AssemblyInfo.cs
+/Users/admin/Desktop/DZ/Seminar4/z25/obj/Debug/net6.0/z25.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/DZ/Seminar4/z25/obj/Debug/net6.0/z25.dll
+/Users/admin/Desktop/DZ/Seminar4/z25/obj/Debug/net6.0/refint/z25.dll
+/Users/admin/Desktop/DZ/Seminar4/z25/obj/Debug/net6.0/z25.pdb
+/Users/admin/Desktop/DZ/Seminar4/z25/obj/Debug/net6.0/z25.genruntimeconfig.cache
+/Users/admin/Desktop/DZ/Seminar4/z25/obj/Debug/net6.0/ref/z25.dll
